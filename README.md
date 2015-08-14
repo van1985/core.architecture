@@ -1,8 +1,8 @@
-![sears holdings](Readme_Imgs/searsholdings_title.jpg)
+![sears holdings](Readme_Imgs/logo-united.jpg)
 
-# Shop sears 2.5 Architecture
+# Crew Scheduling GUI Architecture
 
-#### Mobile Commerce Platform
+#### Alert Monitoring Platform
 -----------------
 
 
